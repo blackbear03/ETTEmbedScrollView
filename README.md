@@ -31,4 +31,4 @@ AOP design,you only have to 3 lines code to use it.
 * All work has been done, only 3 lines code :).
 
 ## Next 
--[] Support embed scrollview array.
+[] Support embed scrollview array.
